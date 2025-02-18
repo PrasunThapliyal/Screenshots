@@ -3,7 +3,7 @@
   "name": "Screenshots",
   "description": "Capture screenshots of visible area of a web page",
   "version": "1.0",
-  "permissions": ["downloads", "activeTab", "scripting", "commands"],
+  "permissions": ["downloads", "activeTab", "scripting", "commands", "storage"],
   "background": {
     "service_worker": "background.js",
     "type": "module"

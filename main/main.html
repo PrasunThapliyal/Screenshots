@@ -3,8 +3,18 @@
   <head>
     <title>Screenshots</title>
   </head>
-  <body>
+  <body style="width: max-content">
     <button id="captureNow">Capture</button>
+    <button id="settings">*</button>
+    <div id="fileNameContainer" style="display: none">
+      <input
+        id="fileNameInput"
+        placeholder="fileName"
+        style="margin-top: 10px; margin-bottom: 10px"
+      />
+      <br />
+      <input id="folderNameInput" placeholder="folderName" />
+    </div>
     <script type="module" src="main.js"></script>
   </body>
 </html>
