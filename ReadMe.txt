@@ -10,6 +10,8 @@ Added Ctrl+Shift+L keyboard shortcut (Windows), Command+Shift+L (Mac)
 TODO : Accept a Filename prefix, tie it to a portion of URL
 For eg, if the screenshot is taken for Course A on site A, then its prefix be like ChatApp(.png). For 2nd course on the same site, it could be Okta(.png)
 --------------------------------
+28 March 2025
+Added a button to insert a Edit box in Youtube below the video title, would be helpful to write short description of the screenshot
 --------------------------------
 --------------------------------
 --------------------------------
